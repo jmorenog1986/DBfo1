@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="obl" id="B7035022-4FDA-0F39-E07A-6564E804676A" version="3.5">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 00:40:00 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B7035022-4FDA-0F39-E07A-6564E804676A</designId>
+</OSDM_Design>
