@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="5BECFD72-4662-31F4-7602-1547D07C1DE9" name="Representantes">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:09:27 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

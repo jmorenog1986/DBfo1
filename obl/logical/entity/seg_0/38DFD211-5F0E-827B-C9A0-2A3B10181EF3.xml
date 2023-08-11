@@ -1,0 +1,80 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="38DFD211-5F0E-827B-C9A0-2A3B10181EF3" name="Personas">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:08:53 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id" id="FB353EA8-E90A-2973-7988-A05EF54C5CE3">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:19:19 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nombre" id="C9CE9477-46E0-FE38-9330-CE80A1999290">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:19:27 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="apellido" id="90E012AF-19E4-5AA8-6546-3F518399B780">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:24:15 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="email" id="1E14DB76-59C6-D756-185B-26FDA55C5170">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:24:21 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="celular" id="EB672CDA-469F-B256-3F44-DA82CF5BCB2D">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:24:32 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="telefono fijo" id="9BC420D3-AA36-36AF-C430-89198F38DA31">
+<createdBy>jhonm</createdBy>
+<createdTime>2023-08-11 01:24:25 UTC</createdTime>
+<ownerDesignName>obl</ownerDesignName>
+<engineerTo>
+<item key="DB186B0B-4738-F31D-B866-22CB9EBA113A" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>
